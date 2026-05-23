@@ -26,4 +26,4 @@ I am a driven Computer Engineering student passionate about writing clean code, 
   
 *   **Email:** mahtabfaisal325@gmail.com
 
-*"Code is like humor. When you have to explain it, it’s bad."* Keep building! 💻
+**"Code is like humor. When you have to explain it, it’s bad."**
