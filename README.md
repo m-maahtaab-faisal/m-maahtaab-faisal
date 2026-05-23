@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Muhammad Mahtab Faisal
+# 👋 Hi,I'm  Muhammad Mahtab Faisal
+
+-Pronouns: **He/Him**
 
 ### 🚀 Computer Engineering Student & Aspiring Software Developer
-I am a driven Computer Engineering student passionate about writing clean code, designing logical backend systems, and solving real-world structural problems. I focus on bridging the gap between hardware logic and efficient software implementations.
----
-## 🛠️ Tech Stack & Skill Set
-| Category | Technologies & Tools |
 
-| :--- | :--- |
+I am a driven Computer Engineering student passionate about writing clean code, designing logical backend systems, and solving real-world structural problems. I focus on bridging the gap between hardware logic and efficient software implementations.
+
+## 🛠️ Tech Stack & Skill Set
 
 | **Programming Languages** | Python, C++ |
 | **Data & Databases** | SQL, Relational Algebra, Database Management |
@@ -21,9 +21,9 @@ I am a driven Computer Engineering student passionate about writing clean code, 
 
 ## 🤝 Connect With Me
 
+
 *   **LinkedIn:** [(https://www.linkedin.com/in/muhammad-mahtab-faisal-a3a5b5377/)]
+  
 *   **Email:** mahtabfaisal325@gmail.com
 
-*"Code is like humor. When you have to explain it, it’s bad."* Keep building! 💻🔥
-
--Pronouns: **He/Him**
+*"Code is like humor. When you have to explain it, it’s bad."* Keep building! 💻
